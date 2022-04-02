@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi I'm Alismos👋
+I am passionate about programming and how it helps us make decisions based on data, I like mathematics, data structures and algorithms.
 <!--
 **Alismos/Alismos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
