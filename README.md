@@ -11,7 +11,12 @@
 I am passionate about programming and how it helps us make decisions based on data, I like mathematics, data structures and algorithms.
 <br>
 <br>
+
 :mailbox: Reach me out!
+
+<br>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Alismos-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duvan-ramirez-469434222/) [![Mail Badge](https://img.shields.io/badge/-@duvan.ramirezs-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/duvan.ramirezs/)
 
 <br>
 
@@ -20,8 +25,7 @@ I am passionate about programming and how it helps us make decisions based on da
 
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=Alismos&count_private=true&theme=tokyonight&hide=contribs,prs)
 <br>
-<img align="right" alt="🦑" src="https://user-images.githubusercontent.com/22963968/159836902-a7553777-f1e2-49ed-90fc-9721322b3f44.png">
-
+<img align="right" style="display: block; margin-bot: 0;" src="assets/images/goku.gif" alt="Coding" width="80%">
 
 
 
