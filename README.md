@@ -10,6 +10,7 @@
 </p>
 I am passionate about programming and how it helps us make decisions based on data, I like mathematics, data structures and algorithms.
 <br>
+<br>
 :mailbox: Reach me out!
 
 <br>
