@@ -1,10 +1,12 @@
+<p align="center">
+  <img width="250px" src="assets/images/Alismos-mask.png" />
+</p>
 <h1 align="center"> Hi I'm Alismos <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> </h1> 
 
 <p align="center">
-    <img src="images/CodingCat.gif" alt="Coding Cat" width="50px">
-    <img src="https://komarev.com/ghpvc/?username=Alismos&label=Profile views&color=blue&style=plastic"
-    alt="youngermaster" />
-    <img src="images/PenguinSurprised.gif"  width="50px">
+    <img style="display: block;" src="https://komarev.com/ghpvc/?username=Alismos&label=Profile"
+    alt="Views" />
+    <img style="display: block;" src="assets/images/man-coding.gif" alt="Coding" width="80px">
 </p>
 I am passionate about programming and how it helps us make decisions based on data, I like mathematics, data structures and algorithms.
 <br>
