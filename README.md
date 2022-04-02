@@ -14,12 +14,8 @@ I am passionate about programming and how it helps us make decisions based on da
 
 :mailbox: Reach me out!
 
-<br>
-
 [![Linkedin Badge](https://img.shields.io/badge/-Alismos-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duvan-ramirez-469434222/) [![Mail Badge](https://img.shields.io/badge/-@duvan.ramirezs-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/duvan.ramirezs/)
-
 <br>
-
 
 #### Github Stats
 
