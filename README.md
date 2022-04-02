@@ -8,7 +8,7 @@
     alt="Views" />
     <img style="display: block;" src="assets/images/man-coding.gif" alt="Coding" width="80px">
 </p>
-I am passionate about programming and how it helps us make decisions based on data, I like mathematics, data structures and algorithms.
+I am passionate about programming and how it helps us to take decisions based on data, I love mathematics, good practices, data structures and algorithms.
 <br>
 <br>
 
